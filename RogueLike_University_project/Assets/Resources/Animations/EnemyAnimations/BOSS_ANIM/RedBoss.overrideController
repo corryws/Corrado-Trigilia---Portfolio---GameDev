@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RedBoss
+  m_Controller: {fileID: 9100000, guid: af4043d68c857184e848e5863525d4a0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 89825b9651b09d042a2fdcbb9dcaaa86, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 61b1b08cf5acd6940a8c91cb520a0728, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 21e38971de8d8f24ba097935c345ed8c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 21e38971de8d8f24ba097935c345ed8c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b99827de17de0074dade964aaa043498, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6f2fe8126d68cc54d9cc587c1e37350e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d50b2aabdc319034c80d7aedd423c572, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cfb3af57a3fd08d4698eef865d615aa9, type: 2}

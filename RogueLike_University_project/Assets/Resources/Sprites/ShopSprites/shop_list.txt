@@ -1,0 +1,20 @@
+lista consumabili
+bombe
+chiavi e chiavi boss
+cuori
+
+power up
+danno: proiettile aumenta il danno del personaggio(Strenght++)
+container: aumenta di 1 il cap della vita
+Muscolo: da scegliere
+sigaro: da scegliere
+grilletto: dimiusce il dps
+laser: sostituisce al proiettile un laser
+piede: aumenta la velocità(di movimento)
+raggio: aumenta il ranger(dopo un tot il proiettile si rompe)
+mirino: disegnava una traiettoria del proiettile prima di spararlo(a tipo biliardo)
+
+nel negozio troviamo
+4 oggetti casuali(tutto tranne chiavi boss e monete)
+
+

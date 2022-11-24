@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b976000753cc21544b83168093f3a5be, type: 3}
+  m_Name: enemy_0
+  m_EditorClassIdentifier: 
+  ThisEnemyAnimator: {fileID: 22100000, guid: f2202ca59f37b7544bb6dd4c1a8076cf, type: 2}
+  life: 6
+  dropprate: 45
+  speed: 2.2
+  shootspeed: 0
+  dps: 0
+  nextshoot: 0
+  attackrange: 0.5
+  verseclip: {fileID: 8300000, guid: 85eb588efb4b0e540a6197824e639957, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd2c0f9f2cd35644ea4cecd2e5e3d7a2, type: 3}
+  m_Name: item_3
+  m_EditorClassIdentifier: 
+  ItemSprite: {fileID: 21300000, guid: 500928fa4434d2a46b44e0177416ceac, type: 3}
+  ShopItemSprite: {fileID: 21300000, guid: 8f1c9b460f05e724e824b533740b07d7, type: 3}
+  pickclip: {fileID: 8300000, guid: 70697e3b5db809d408042f758dc0ce81, type: 3}
+  name: container
+  description: Hai voglia di un cuore in piu'?
+  cost: 3
+  consumable: 1
+  activable: 0
